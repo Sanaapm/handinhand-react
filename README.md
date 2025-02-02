@@ -16,8 +16,9 @@ You can view the live platform at:
 Screenshot:
 ![src](https://github.com/user-attachments/assets/5054d0aa-050e-4c09-b719-bcfbd349c96f)
 
-Group Photo with Mentor:
-![team](https://github.com/user-attachments/assets/40eac389-dd64-4a0c-80cd-5d89202fcef7)
+Group Photo:
+![srcc](https://github.com/user-attachments/assets/23fa8a74-d7ea-489c-b470-8e8e2006c2dc)
+
 
 
 ## Installation
