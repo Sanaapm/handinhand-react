@@ -13,6 +13,13 @@
 You can view the live platform at:  
 [Hand-in Hand](https://handinhand-react-8g7e.vercel.app/)
 
+Screenshot:
+![src](https://github.com/user-attachments/assets/5054d0aa-050e-4c09-b719-bcfbd349c96f)
+
+Group Photo with Mentor:
+![team](https://github.com/user-attachments/assets/40eac389-dd64-4a0c-80cd-5d89202fcef7)
+
+
 ## Installation
 
 To run the React app locally, follow these steps:
